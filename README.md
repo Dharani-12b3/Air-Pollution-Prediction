@@ -11,5 +11,6 @@ Collaborated in a team to develop an innovative machine learning solution for pr
 - Employed data visualization techniques to effectively present the model's outputs and provide insights to team members and stakeholders.
 - Developed a user-friendly frontend interface using Gradio and Tkinter, allowing easy navigation and interaction with the model for users.
 
+("C:\Users\HP\Desktop\gradio without info.png")
 
 
