@@ -12,6 +12,8 @@ Collaborated in a team to develop an innovative machine learning solution for pr
 - Developed a user-friendly frontend interface using Gradio and Tkinter, allowing easy navigation and interaction with the model for users.
 
 ![gradio without info](https://github.com/Dharani-12b3/Air-Pollution-Prediction/assets/85936102/5c7448a9-851f-42bf-99a4-6e17dd27104f)
+
+
 ![gradio](https://github.com/Dharani-12b3/Air-Pollution-Prediction/assets/85936102/d6ae59ed-86bd-41f3-b5b8-db2ac3c35141)
 
 
